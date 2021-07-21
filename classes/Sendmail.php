@@ -1,6 +1,6 @@
 <?php
 class Sendmail{
-  private $to= 'test@developers-alliance.com';
+  private $to= 'otarashvili.dato2@gmail.com';
   private $subject = 'Test Submit';
 
   public function emailSend($name, $last, $email){
